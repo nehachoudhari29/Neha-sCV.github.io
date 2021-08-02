@@ -423,8 +423,8 @@ section.work .wrapper .portfolio .portfolio__wrapper {
 }
 section.work .wrapper .portfolio .portfolio__wrapper .item .magnify img {
     display:flex;
-    width: 150px;
-    height: 110px;
+    width:150px;
+    height:110px;
     object-fit:cover;
     margin-right:2rem;
     margin-bottom:2rem;
