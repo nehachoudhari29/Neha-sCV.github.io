@@ -423,11 +423,11 @@ section.work .wrapper .portfolio .portfolio__wrapper {
 }
 section.work .wrapper .portfolio .portfolio__wrapper .item .magnify img {
     display:flex;
-    width: 90%;
-    height: 99px;
+    width: 150px;
+    height: 110px;
     object-fit:cover;
-    margin-right:0rem;
-    margin-bottom: 2rem;
+    margin-right:2rem;
+    margin-bottom:2rem;
 }
 section.work .wrapper .portfolio .tabs ul li a.active {
     border-color: var(--info);
